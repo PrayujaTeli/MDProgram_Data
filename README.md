@@ -49,5 +49,4 @@ Designed for:
 
 ## ✨ View Dashboard
 
-🔗 [View on Tableau Public](#)  
-_([Insert link after publishing](https://public.tableau.com/views/Dashboard_17481417621930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))_
+🔗 [View on Tableau Public](#)  - ([Link](https://public.tableau.com/views/Dashboard_17481417621930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))

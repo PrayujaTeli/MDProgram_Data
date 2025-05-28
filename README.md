@@ -50,3 +50,4 @@ Designed for:
 ## ✨ View Dashboard
 
 🔗 [View on Tableau Public](#)  - ([Link](https://public.tableau.com/views/Dashboard_17481417621930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 [Explanation](#)  - ([YouTube](https://youtu.be/NufdsQe0tDg))
